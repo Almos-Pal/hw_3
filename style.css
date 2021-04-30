@@ -1,0 +1,16 @@
+tr:nth-child(13){
+    font-weight: bold;
+}
+table{
+    border: 1px solid red;
+    
+}
+td{
+    border: 1px solid red;
+    text-align: center;
+    padding:0 10px ;
+}
+tbody  td{
+    text-align: right ;
+
+}
